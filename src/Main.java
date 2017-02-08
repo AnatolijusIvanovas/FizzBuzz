@@ -1,3 +1,5 @@
+// Simple FizzBuzz implementation for numbers from -100 to 100.
+
 public class Main {
     public static void main(String[] args) {
         for (int i = -100; i < 101; i++) {
